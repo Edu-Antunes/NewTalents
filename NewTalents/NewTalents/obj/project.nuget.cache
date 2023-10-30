@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnjbzeQPcxAYO2G3cACaHxf2lA/VbXjn/Puys6xt7hq8ukAVkL8XUki8ouwPRN1IMwschf+9T9blt9tIVdtNDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dio\\NewTalents\\NewTalents\\NewTalents\\NewTalents.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://verithus.qualithus.com.br:1000/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
